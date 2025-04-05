@@ -4,6 +4,8 @@ Overview
 This project is an advanced, responsive fitness dashboard web application that helps users track their fitness activities, schedule workouts, monitor personal bests, and interact with their fitness community. The dashboard features a clean, modern UI with intuitive navigation and a comprehensive set of fitness tracking tools.
 Features
 
+https://vitorjoaodev.github.io/adm-dashboard/ (preview)
+
 Responsive Navigation Menu: Sleek side navigation that adapts to different screen sizes
 Popular Activities Gallery: Visual display of various fitness activities with hover effects
 Weekly Schedule: Interactive calendar view of upcoming workout sessions with participant details
